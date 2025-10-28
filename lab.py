@@ -29,3 +29,4 @@ for caracter in sir:
 
 for i in range(len(sir)):
     print(i,sir[i])
+
